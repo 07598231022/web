@@ -1,0 +1,4 @@
+git add .  添加
+git commit -m "update"  提交
+git push origin gh-pages 推送到远程仓库
+
